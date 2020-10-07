@@ -1,3 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <dimen name="padding_app">20dp</dimen>
+    <dimen name="rdgTreatment">10dp</dimen>
+    <dimen name="lblMessage">10dp</dimen>
+    <dimen name="lblMessageText">20dp</dimen>
 </resources>

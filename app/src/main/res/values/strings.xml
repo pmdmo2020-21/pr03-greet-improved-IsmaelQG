@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">Greet Improved</string>
+    <string name="swtPremium">Premium</string>
+    <string name="lblName">Name</string>
+    <string name="lblSurname">Surname</string>
+    <string name="lblTeratment">Treatment</string>
+    <string name="rdbTreatmentMr">Mr.</string>
+    <string name="rdbTreatmentMrs">Mrs.</string>
+    <string name="rdbTreatmentMs">Ms.</string>
+    <string name="chkPolitely">Politely</string>
+    <string name="btnGreet">Greet</string>
 </resources>
