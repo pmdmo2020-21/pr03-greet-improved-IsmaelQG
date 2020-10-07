@@ -9,4 +9,13 @@
     <string name="rdbTreatmentMs">Ms.</string>
     <string name="chkPolitely">Politely</string>
     <string name="btnGreet">Greet</string>
+    <string name="premiunMessage">Buy premium subscription to go on greeting!!</string>
+    <string name="politeMessage">Good morning %s %s %s. Pleased to meet you</string>
+    <string name="notPoliteMessage">Hello %s %s. What\'s up?</string>
+    <string name="errorMessage">Required</string>
+    <string name="contador">%d of %d</string>
+    <plurals name="charNumber">
+        <item quantity="one">%d char</item>
+        <item quantity="other">%d chars</item>
+    </plurals>
 </resources>
