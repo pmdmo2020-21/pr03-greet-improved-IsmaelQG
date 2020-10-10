@@ -25,7 +25,8 @@
         android:id="@+id/txtName"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:maxLength="@integer/charLimit">
+        android:maxLength="@integer/charLimit"
+        android:imeOptions="actionGo">
         <requestFocus/>
     </EditText>
 
@@ -45,7 +46,8 @@
         android:id="@+id/txtSurname"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:maxLength="@integer/charLimit"/>
+        android:maxLength="@integer/charLimit"
+        android:imeOptions="actionDone"/>
 
     <TextView
         android:id="@+id/lblSurnameChar"

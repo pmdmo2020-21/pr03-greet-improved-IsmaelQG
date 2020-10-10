@@ -87,6 +87,7 @@ public class MainActivity extends AppCompatActivity {
 
     private void show(){
         binding.btnGreet.setOnClickListener(view -> {
+            SoftInputUtils.hideSoftKeyboard(binding.txtName);
             if(!nameEmpty() && !surnameEmpty()){
                 if(contador == 10){
                     Toast.makeText(this, getString(R.string.premiunMessage), Toast.LENGTH_SHORT).show();
